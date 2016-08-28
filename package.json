@@ -6,10 +6,8 @@
     "react-scripts": "0.2.3"
   },
   "dependencies": {
-    "muicss": "^0.7.3",
     "react": "^15.3.1",
-    "react-dom": "^15.3.1",
-    "react-scripts": "^0.2.3"
+    "react-dom": "^15.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
