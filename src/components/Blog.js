@@ -1,9 +1,12 @@
 import React, { Component } from 'react';
+import chalk from '../reactrally.jpg';
+import '../App.css';
 
 class Blog extends Component {
   render() {
     return (
-      <div className='container'>
+      <div className='container react-img'>
+        <div>
         <h2>React Rally</h2>
         <h4>Author: Parker Bond</h4>
         <p>
@@ -160,6 +163,7 @@ class Blog extends Component {
           </p>
         </ul>
         <br />
+        </div>
       </div>
     );
   }
