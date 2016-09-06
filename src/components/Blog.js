@@ -9,9 +9,9 @@ class Blog extends Component {
         <p>
           This blog was brought about by a perfect storm
           of wanting to play around with create-react-app 
-          and hoping that I might win one of the aweome(TM) 
+          and hoping that I might win one of the awesome(TM) 
           React Rally posters up for grabs for people who write
-          a blog post about it.  Since I don't have a blog, 
+          a blog post about it. Since I don't have a blog, 
           I thought that this would be the perfect opportunity
           to hit two birds with one stone... The way I see it,
           even if I don't get a poster, I can hide a fun Theramin
@@ -56,7 +56,7 @@ class Blog extends Component {
             DPL and probably loves React more than anyone else I know.
             Dave and Ryan used to work together and apparently
             Ryan taught Dave to love React and now he can't stop 
-            talking about him.  I can't confirm it, but Dave may have
+            talking about him. I can't confirm it, but Dave may have
             shortened his beard just because Ryan shaved his first.
             Really, this point has nothing to do with the conference, 
             but I love trying to make bad jokes(especially puns) that 
@@ -92,17 +92,74 @@ class Blog extends Component {
             about into practice, so I may end up writing blog posts on that as 
             well if this blog becomes more than a one time thing.
           </p>
-          <li>How slow the foodtrucks were, and how I love free food.</li>
           <li>All the cool people I got to meet</li>
+          <p> 
+            I got to meet a lot of amazing people from Florida, Chicago, 
+            California, Utah, and beyond. Also, Ryan Florence got to find
+            out who one of his anonymous twitter followers was.
+          </p>
           <li>How great the music was</li>
+          <p>
+            Seriously, can we get the soundtrack for the speakers in an album format?
+          </p>
           <li>How bad the sound was</li>
+          <p>
+            The only mildly annoying thing that took place at the conference had more
+            to do with the microphone feedback that sometimes happened. All in all, 
+            it was more of a bother than a serious problem.  
+          </p>
           <li>How great the organizers were</li>
+          <p>
+            The organization, sponsors, speakers, venue, and snacks were all
+            top notch, and I can't thank @jamison and @mzabriskie enough. Thank you
+            guys for a great opportunity to improve my React mojo and meet other
+            people who are leading the way in the craft.
+          </p>
           <li>What I am most excited about from the conference</li>
+          <p>
+            Am I most excited about using animations, building a game, debugging in  
+            the editor, making the web more accessible, or getting better at any number 
+            of great technologies? I really want to make more composable functions
+            and make music in React, however, I have to say the thing I am most
+            excited about is to see how far the component can take us. Setting everything
+            up for that first parent component is half the battle. Imagine if there 
+            was just a server component or a Database component that you could use in
+            your app! I never would have thought that something like this would be
+            possible, let alone desireable before React Rally. Now, I think we are
+            just starting to scratch the surface of what is possible. I can't wait
+            to see what the future brings!
+          </p>
           <li>Take aways and musings from the conference</li>
+          <p>
+            React is a great tool, with a lot of great people and great tools that
+            help make it better for everyone.
+          </p>
           <li>photos of the conference and the swag</li>
+          <p>
+            I'll try and upload some pictures here in the future, stay tuned.
+          </p>
           <li>A dictionary definition of the word swag</li>
+          <p>
+            /SWAG/  noun
+          </p>
+          <p>
+            1. money or goods taken by a thief or burglar.
+          </p>
+          <p>
+            2. products given away free, typically for promotional purposes.
+          </p>
+          <p>
+            While the first definition may be more fun, the second one is much
+            more applicable to my usage.
+          </p>
           <li>tl;dr</li>
+          <p>
+            React Rally is awesome. If you use/like react and didn't go, you should
+            go watch the videos once they are released, and sign up for next years
+            conference.  Also, I think I'm much more witty than I really am.
+          </p>
         </ul>
+        <br />
       </div>
     );
   }
