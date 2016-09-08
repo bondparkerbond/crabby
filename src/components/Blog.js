@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import chalk from '../reactrally.jpg';
 import '../App.css';
 
 class Blog extends Component {
