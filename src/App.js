@@ -12,7 +12,7 @@ class App extends Component {
   render() {
     return (
       <div className="App center-align">
-        <div className="row App-header">
+        <div className="row center-align App-header">
           <img src={logo} className="col m2 l2 hide-on-small-only App-logo" alt="logo" />
           <h2 className='col m8 l8 hide-on-small-only'>Create-React-Blog</h2>
           <img src={logo} className="col m2 l2 hide-on-small-only App-logo-reversed" alt="logo" />
