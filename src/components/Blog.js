@@ -5,8 +5,8 @@ import '../App.css';
 class Blog extends Component {
   render() {
     return (
-      <div className='container react-img'>
-        <div>
+      <div className='react-img'>
+        <div className='container spaced1'>
         <h2>React Rally</h2>
         <h4>Author: Parker Bond</h4>
         <p>
